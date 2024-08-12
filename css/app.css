@@ -24,6 +24,10 @@ body {
     font-family: 'Noto Naskh Arabic', serif !important;
 }
 
+.font-telugu {
+    font-family: 'Noto Sans Telugu', sans-serif !important;
+}
+
 .img-crop {
     width: 15rem;
     height: 15rem;
